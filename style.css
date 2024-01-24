@@ -148,5 +148,14 @@ hr {
     .header img {
         display: none;
     }
+    .products {
+        display: block;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .products div{
+        width: 100%;
+    }
 }
 
